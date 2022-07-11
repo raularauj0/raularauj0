@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/raularauj0/raularauj0/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 Profile Readme Generator

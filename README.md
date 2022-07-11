@@ -2,14 +2,14 @@
 
 ###
 
-<img align="right" height="170" src="https://i.pinimg.com/originals/ae/89/59/ae8959f0d0423649d7357c0d1d3c9beb.gif"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&custom_title=My Stats:&username=raularauj0" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&custom_title=My Languages:&username=raularauj0" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="170" src="https://i.pinimg.com/originals/ae/89/59/ae8959f0d0423649d7357c0d1d3c9beb.gif"  />
 
 ###
 
@@ -53,11 +53,11 @@
 
 ###
 
-<img align="left" height="160" src="https://i.pinimg.com/originals/61/bb/d1/61bbd11b6f3dfba4f37c459610ad5c22.gif"  />
+<img align="right" height="160" src="https://i.pinimg.com/originals/6b/0b/79/6b0b79c3a2f539bdd0622537af960a41.gif"  />
 
 ###
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/6b/0b/79/6b0b79c3a2f539bdd0622537af960a41.gif"  />
+<img align="left" height="160" src="https://i.pinimg.com/originals/61/bb/d1/61bbd11b6f3dfba4f37c459610ad5c22.gif"  />
 
 ###
 

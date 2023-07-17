@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&custom_title=My Languages:&username=raularauj0" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="170" src="https://i.pinimg.com/originals/ae/89/59/ae8959f0d0423649d7357c0d1d3c9beb.gif"  />
-
-###
-
 <div align="left">
   <a href="RaulGil#1182" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />

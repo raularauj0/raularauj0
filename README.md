@@ -1,4 +1,4 @@
-<h2 align="left">Hi 💙 ! My name is Raul and I'm  intern at IBM Brazil 🐝</h2>
+<h2 align="left">Hi 💙 ! My name is Raul</h2>
 
 ###
 
